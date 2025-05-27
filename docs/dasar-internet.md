@@ -38,12 +38,12 @@ Bayangin kamu lagi gabut terus buka laptop. Kamu pengen nonton film **The Last D
 
 Alurnya begini:
 
-1. 🧒 Laptop kamu itu disebut **Client**
-2. 📦 Netflix itu disebut **Server** (tempat data film disimpan)
-3. 🚚 Permintaan kamu dikirim lewat **ISP** (Internet Service Provider) kayak Telkomsel atau IndiHome
-4. 📖 Lalu dicek dulu di **DNS (Domain Name System)** buat cari alamat rumah si Netflix (alias IP Address-nya)
-5. 🔍 Misalnya ketemu: `142.251.10.139`
-6. 📬 Server Netflix kasih filmnya balik ke kamu lewat jalur ISP tadi
+1. Laptop kamu itu disebut **Client**
+2. Netflix itu disebut **Server** (tempat data film disimpan)
+3. Permintaan kamu dikirim lewat **ISP** (Internet Service Provider) kayak Telkomsel atau IndiHome
+4. Lalu dicek dulu di **DNS (Domain Name System)** buat cari alamat rumah si Netflix (alias IP Address-nya)
+5. Misalnya ketemu: `142.251.10.139`
+6. Server Netflix kasih filmnya balik ke kamu lewat jalur ISP tadi
 
 ---
 
