@@ -1,0 +1,1 @@
+- placeholder : elemen yang ditempatkan secara sementara di dalam sebuah desain, dokumen, atau sistem untuk menempati tempat yang akan diisi oleh konten atau informasi yang lebih definitif di kemudian hari. Istilah ini bisa digunakan untuk teks, gambar, atau bahkan objek lain.
